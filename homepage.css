@@ -221,12 +221,12 @@
 
 @media only screen and (max-width: 768px) {
   .split {
-    width: 100%; /* Adjusted for responsiveness */
+    width: 60%; /* Adjusted for responsiveness */
     padding-top: 10px; /* Adjusted for responsiveness */
   }
 
   .right {
-    width: 100%; /* Adjusted for responsiveness */
+    width: 40%; /* Adjusted for responsiveness */
   }
 
   .popupModel {
